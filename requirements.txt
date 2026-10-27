@@ -1,0 +1,11 @@
+# No hard version pins -- this lets pip pick the latest versions that already
+# have ready-made installers (wheels) for your Python version, instead of
+# resolving to old versions that need to be compiled from source.
+streamlit
+langchain
+langchain-community
+langchain-text-splitters
+langchain-google-genai
+faiss-cpu
+pypdf
+python-dotenv

@@ -1,0 +1,6 @@
+﻿.env
+venv/
+__pycache__/
+*.pyc
+Project_Presentation.pptx
+Project_Report.docx
